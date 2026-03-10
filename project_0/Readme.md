@@ -1,8 +1,8 @@
 # Project 0. Игра: Угадай число. 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/FillItSteel/sf_data_science/blob/main/project_0/Readme.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/FillItSteel/sf_data_science/blob/main/project_0/Readme.md#Какой-кейс-решаем)
+[1. Описание проекта](https://github.com/FillItSteel/sf_data_science/blob/main/project_0/Readme.md#описание-проекта)
+[2. Какой кейс решаем?](https://github.com/FillItSteel/sf_data_science/blob/main/project_0/Readme.md#какой-кейс-решаем)
 [3. Краткая информация о данных]()
 [4. Этапы работы над проектом]()
 [5. Результат]()
